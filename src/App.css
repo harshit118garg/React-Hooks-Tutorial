@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Domine', serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.App {
+    text-align: center;
+}
+
+.btn {
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
+form {
+    margin-left: 14rem;
+    margin-right: 14rem;
+    font-size: 1.5rem; 
+    text-align: start;
+}
+
+.form-group input {
+    font-size: 2rem;
+}
+
+li {
+    font-size: 2rem;
+}
